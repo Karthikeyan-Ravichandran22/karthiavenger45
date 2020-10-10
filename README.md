@@ -1,12 +1,12 @@
 # Karthikeyan
 
-[![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/alkhachatryan)
-[![Linkedin](https://img.shields.io/badge/-karthikeyan-r-60324b194/-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikeyan-r-60324b194/](https://www.linkedin.com/in/karthikeyan-r-60324b194/)
+[![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/karthiavenger45)
+
 [![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:info@khachatryan.org)
 
 
 ### Halo, You can call me Karthi! 👋
-https://www.linkedin.com/in/karthikeyan-r-60324b194/
+
 
 Here are some ideas to get you started:
 
