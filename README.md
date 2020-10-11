@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[**Click Here to connect with me in Whatsapp**](https://wa.me/%3C+918667013433%3E)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...I don’t eat desserts or sweets as I don’t like all the sugar.
--->
 
 [![Karthikeyan GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiavenger45)](https://github.com/karthiavenger45/github-readme-stats)
 
