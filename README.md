@@ -1,6 +1,6 @@
 # Karthikeyan
 
-[![Mail](https://img.shields.io/badge/-info@karthiavenger45@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:info@karthiavenger45.org)
+[![Mail](https://img.shields.io/badge/-info@karthikeyan.ravichandran22@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:info@karthikeyan.ravichandran22@gmail.com)
 
 
 ### Halo, You can call me Karthi! 👋
