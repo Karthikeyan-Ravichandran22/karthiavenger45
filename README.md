@@ -1,8 +1,8 @@
 # Karthikeyan
 
-[![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/karthiavenger45)
+[![Github](https://img.shields.io/github/followers/Karthikeyan?label=Follow&style=social)](https://github.com/karthiavenger45)
 
-[![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:info@khachatryan.org)
+[![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:info@karthiavenger45.org)
 
 
 ### Halo, You can call me Karthi! 👋
