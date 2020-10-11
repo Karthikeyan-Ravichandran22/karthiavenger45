@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Actually I'm Open to Work
 - 🌱 I’m currently learning ...Machine Learning
-- 👯 I’m looking to collaborate on ...[LinkedIn - @Karthikeyan](https://www.linkedin.com/in/karthikeyan-r-60324b194/) 
+- 👯 I’m looking to collaborate on ...[Here on LinkedIn](https://www.linkedin.com/in/karthikeyan-r-60324b194/)
 - 🤔 I’m looking for help with ...Deep Learning
 - 💬 Ask me about ... Machine Learning or Any Tech related stuff
 - 📫 How to reach me: ...[Instagram @karthi](https://www.instagram.com/karthiavenger)
